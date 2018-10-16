@@ -1,0 +1,7 @@
+DEPENDENCIES
+  kibana
+    git: https://github.com/oceaneLonneux/kibanaCookbook
+    revision: 45fdc04278d82dd994077c5e5259d3b88aea8be6
+
+GRAPH
+  kibana (0.1.0)
